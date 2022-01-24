@@ -1,4 +1,4 @@
-class Libimobiledeviceglue < Formula
+class LibimobiledeviceGlue < Formula
     desc "Library with common code used by the libraries and tools around the libimobiledevice project."
     homepage "https://github.com/libimobiledevice/libimobiledevice-glue"
     url "https://github.com/libimobiledevice/libimobiledevice-glue.git"
