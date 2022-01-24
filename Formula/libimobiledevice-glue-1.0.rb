@@ -2,7 +2,7 @@ class LibimobiledeviceGlue < Formula
     desc "Library with common code used by the libraries and tools around the libimobiledevice project."
     homepage "https://github.com/libimobiledevice/libimobiledevice-glue"
     url "https://github.com/libimobiledevice/libimobiledevice-glue.git"
-    version "git0"
+    version "1.0.0"
   
     depends_on "autoconf" => :build
     depends_on "automake" => :build
